@@ -1,0 +1,2 @@
+# Athlete calculator
+ Specifications: ● Athletes can receive a maximum of five hours’ private coaching a week ● Only Intermediate and Elite athletes can enter competitions  ● Competitions are held on the second Saturday of each month  ● All prices and costs should be displayed as currency to two decimal places  ● The program deals with user error by displaying suitable messages to the user and then prompting them for another go  ● North Sussex Judo assumes that a month consists of four weeks.
